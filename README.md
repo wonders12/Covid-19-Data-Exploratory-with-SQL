@@ -1,4 +1,4 @@
-# Read more about COVID-19 Dataset by _Our World in Data_ 
+# Read more about COVID-19 Dataset
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ourworldindata.org/coronavirus)
 [![Data](https://img.shields.io/badge/go_to-data-purple)](public/data/)
 [![documentation](https://img.shields.io/badge/go_to-dev_docs-0055ff)](https://docs.owid.io/projects/covid)
